@@ -3,6 +3,8 @@ Greg Ryan, Shannon Cherpak
 4/25/17
 directions.txt
 
+This program is a hangman game that was written in perl for the final project of my programming languages design and implementation class. I worked with a partner, Shannon, on this project. During this project, much of the coding work I did dealt with most of the logic, text manipulation, and regular expressions necessary for the game. Shannon mainly handled the GUI interface. We worked together debugging the code so We each had a hand here and there in the other aspects but most of the work I did was with the logic and text manipulation and regular expressions.
+
 MacOS is our preferred platform.
 There is no language compiler for Perl because it is an interpreted language. Download any text editor that you like using and that works with Perl. A popular one for Perl is Padre, but we used Sublime Text 2. 
 https://www.sublimetext.com
